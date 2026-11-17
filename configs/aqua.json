@@ -1,0 +1,15 @@
+[
+	["bateau", 1],
+	["plaine", 1],
+	["plaine_relief_oppose", 1],
+	["plaine_relief_adjacent", 1],
+	["plaine_triple", 2],
+	["plaine_pont", 1],
+	["plaine_pont_diagonal", 1],
+	["foret", 1],
+	["foret_relief_oppose", 1],
+	["foret_relief_adjacent", 1],
+	["foret_triple", 2],
+	["foret_pont", 1],
+	["foret_pont_diagonal", 1]
+]
