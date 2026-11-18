@@ -1,1 +1,1 @@
-python3 tile_picker.py
+python3 main.py
