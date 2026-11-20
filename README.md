@@ -22,12 +22,12 @@ A random tile picker for my custom board game Feather Fall
 /	plaine_1_relief
 	plaine_1_coin
 	plaine_1_couloir
-	plaine_1_culdesac
+/	plaine_1_culdesac
 /	plaine_2
 /	plaine_2_relief_long
 /	plaine_2_relief_court
 	plaine_2_coin_gauche
-	plaine_2_coin_droite
+/	plaine_2_coin_droite
 /	plaine_4
 /	plaine_4_relief
 /	plaine_4_coin
@@ -43,12 +43,12 @@ A random tile picker for my custom board game Feather Fall
 /	foret_1
 /	foret_1_relief
 	foret_1_coin
-	foret_1_couloir
+/	foret_1_couloir
 	foret_1_culdesac
 /	foret_2
 /	foret_2_relief_long
 /	foret_2_relief_court
-	foret_2_coin_gauche
+/	foret_2_coin_gauche
 	foret_2_coin_droite
 /	foret_4
 /	foret_4_relief
@@ -94,18 +94,18 @@ A random tile picker for my custom board game Feather Fall
 /	montagne_4_couloir
 /	montagne_4_culdesac
 	+
-	super_taverne		(trois oreilles)		[foret / riviere]
-	super_antiquaire	(roulotte)				[foret]
-	super_marche		(marche noir)			[foret]
-	super_milice		(la guilde)				[plaine]
-	super_hopital		(sanatorium)			[foret]
-	super_temple		(abbaye du holt)		[foret]
-	super_cimetierre	(cimetierre des heros)	[plaine]
-	super_bibliotheque	(ecole de sorcelerie)	[foret]
+/	super_taverne		(trois oreilles)		[foret]
+/	super_antiquaire	(roulotte)				[foret]
+/	super_marche		(marche noir)			[foret]
+/	super_milice		(la guilde)				[plaine]
+/	super_hopital		(sanatorium)			[foret]
+/	super_temple		(abbaye du holt)		[foret]
+/	super_cimetierre	(cimetierre des heros)	[plaine]
+/	super_bibliotheque	(ecole de sorcelerie)	[foret]
 /	super_port			(petit port)			[plaine / riviere]
-	super_arene			(collise)				[plaine]
-	super_banque		(tresor_commun)			[plaine]
-	super_elevage		(grande_ferme)			[plaine]
-	super_diligence		(compagnie_de_berun)	[plaine]
-	super_academie		(vieil arbre)			[montagne]
-	super_autel			(monolith)				[desert]
+/	super_arene			(collise)				[plaine]
+/	super_banque		(tresor_commun)			[plaine]
+/	super_elevage		(grande_ferme)			[plaine]
+/	super_diligence		(compagnie_de_berun)	[plaine]
+	super_academie		(pic de la demence)		[montagne]
+	super_autel			(le monolith)			[desert]
