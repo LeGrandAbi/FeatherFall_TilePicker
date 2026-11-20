@@ -1,1 +1,11 @@
-[]
+[
+	["montagne_1", 2],
+	["montagne_1_relief", 1],
+	["montagne_1_coin", 1],
+	["montagne_2_coin_gauche", 1],
+	["montagne_2_coin_droite", 1],
+	["montagne_2_relief_long", 1],
+	["montagne_4_relief_coin", 1],
+	["montagne_4_relief_couloir", 1],
+	["montagne_4_relief_culdesac", 1],
+]
