@@ -16,11 +16,11 @@
 
 	["plaine_2", 1],
 	["plaine_2_coin_droite", 1],
-	["plaine_4_coin", 1],
+	["plaine_4_relief", 1],
 
 	["foret_2", 1],
 	["foret_2_coin_gauche", 1],
-	["foret_4_couloir", 1],
+	["foret_4_relief", 1],
 
 	["super_taverne", 1],
 	["super_antiquaire", 1],
