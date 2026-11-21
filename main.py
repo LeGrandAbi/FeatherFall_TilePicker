@@ -35,3 +35,4 @@ while ((stack != []) and (not prompt in EXIT_COMMANDS)):
 	else:
 		while sidestack != []:
 			stack.append(sidestack.pop(0))
+		random.shuffle(stack)
