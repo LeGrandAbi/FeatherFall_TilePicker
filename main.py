@@ -1,6 +1,8 @@
 import random
 import json
 
+CONFIG = "base_jdb"
+
 EXIT_COMMANDS = ["q", "quit", "x", "exit"]
 REROLL_COMMANDS = ["r", "reroll"]
 
@@ -8,7 +10,7 @@ def what_to_do_with_the_chosen_tile(tile):
 	print('\t' + tile.upper())
 	
 
-with open("configs/aqua.json", 'r', ) as f:
+with open(f"configs/{CONFIG}.json", 'r', ) as f:
 	config = json.load(f)
 	f.close()
 
