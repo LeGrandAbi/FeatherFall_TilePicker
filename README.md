@@ -109,3 +109,28 @@ A random tile picker for my custom board game Feather Fall
 /	super_diligence		(compagnie_de_berun)	[plaine]
 	super_academie		(pic de la demence)		[montagne]
 	super_autel			(le monolith)			[desert]
+
+
+
+
+
+
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+TODO:
+
+add tiles and build for arcane:
+
+1x village_waldeheim
+1x plaine_1
+2x foret_1
+1x plaine_2_coin_gauche (to be done)
+1x foret_2_coin_droite (to be done)
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
