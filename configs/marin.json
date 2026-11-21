@@ -1,14 +1,12 @@
 [
 	["super_port", 1],
-	["plaine_riviere", 2],
-	["plaine_riviere_relief_oppose", 1],
-	["plaine_riviere_relief_adjacent", 1],
+	["plaine_riviere", 3],
+	["plaine_riviere_relief", 1],
 	["plaine_riviere_double", 1],
 	["plaine_riviere_pont", 1],
 	["plaine_riviere_pont_diagonal", 1],
-	["foret_riviere", 2],
-	["foret_riviere_relief_oppose", 1],
-	["foret_riviere_relief_adjacent", 1],
+	["foret_riviere", 3],
+	["foret_riviere_relief", 1],
 	["foret_riviere_double", 1],
 	["foret_riviere_pont", 1],
 	["foret_riviere_pont_diagonal", 1]
