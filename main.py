@@ -1,7 +1,7 @@
 import random
 import json
 
-CONFIG = "base_jdb"
+CONFIG = "jdb"
 
 EXIT_COMMANDS = ["q", "quit", "x", "exit"]
 REROLL_COMMANDS = ["r", "reroll"]
