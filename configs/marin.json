@@ -1,13 +1,17 @@
 [
 	["super_port", 1],
-	["plaine_riviere", 3],
-	["plaine_riviere_relief", 1],
-	["plaine_riviere_double", 1],
-	["plaine_riviere_pont", 1],
-	["plaine_riviere_pont_diagonal", 1],
-	["foret_riviere", 3],
-	["foret_riviere_relief", 1],
-	["foret_riviere_double", 1],
-	["foret_riviere_pont", 1],
-	["foret_riviere_pont_diagonal", 1]
+
+	["plaine_1", 2],
+	["plaine_1_double", 1],
+	["plaine_1_pont", 1],
+	["plaine_2", 1],
+	["plaine_2_pont", 1],
+	["plaine_source", 1],
+
+	["foret_1", 2],
+	["foret_1_double", 1],
+	["foret_1_pont", 1],
+	["foret_2", 1],
+	["foret_2_pont", 1],
+	["foret_source", 1]
 ]
