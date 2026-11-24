@@ -1,7 +1,9 @@
 import random
 import json
+import sys
 
-CONFIG = "jdb"
+
+CONFIG = sys.argv[1]
 
 EXIT_COMMANDS = ["q", "quit", "x", "exit"]
 REROLL_COMMANDS = ["r", "reroll"]
