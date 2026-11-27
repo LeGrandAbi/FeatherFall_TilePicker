@@ -39,7 +39,7 @@ for stack_name, tileset in config["stacks"].items():
 for instruction in config["instructions"]:
     command = instruction["command"]
     args = instruction["args"]
-    print(f"====================")
+    print(f"========= {command.upper()} ===========")
     match command:
 
         case "place":
