@@ -1,0 +1,122 @@
+{
+	"stacks": {
+		"base": {
+			"plaine_1": 10,
+			"plaine_1_relief": 4,
+			"plaine_2_relief_court": 2,
+			"plaine_2_relief_long": 2,
+			"plaine_4_coin": 1,
+			"plaine_4_couloir": 1,
+			"plaine_4_relief": 1,
+			"foret_1": 10,
+			"foret_1_relief": 4,
+			"foret_2_relief_court": 2,
+			"foret_2_relief_long": 2,
+			"foret_4_coin": 1,
+			"foret_4_couloir": 1,
+			"foret_4_relief": 1
+		},
+		"eau": {
+			"super_port": 1,
+			"riviere_plaine_1": 2,
+			"riviere_plaine_1_coin": 1,
+			"riviere_plaine_1_pont": 1,
+			"riviere_plaine_2_pont": 1,
+			"riviere_plaine_source": 1,
+			"riviere_foret_1": 2,
+			"riviere_foret_1_coin": 1,
+			"riviere_foret_1_pont": 1,
+			"riviere_foret_2_pont": 1,
+			"riviere_foret_source": 1
+		}
+	},
+	"instructions": [
+		{
+			"command": "place_village_corner",
+			"args":{
+				"village": "yorlitz",
+				"corner": "NW"
+			}
+		},
+		{
+			"command": "place",
+			"args":{
+				"n": 3,
+				"stack": "base"
+			}
+		},
+		{
+			"command": "place_village",
+			"args":{
+				"village": "romelton"
+			}
+		},
+		{
+			"command": "place_corner",
+			"args":{
+				"n": 2,
+				"stack": "base",
+				"corner": "SE"
+			}
+		},
+		{
+			"command": "place_village",
+			"args":{
+				"village": "st-sarov"
+			}
+		},
+		{
+			"command": "place",
+			"args":{
+				"n": 2,
+				"stack": "base"
+			}
+		},
+		{
+			"command": "place_village",
+			"args":{
+				"village": "waldheim"
+			}
+		},
+		{
+			"command": "place_corner",
+			"args":{
+				"n": 2,
+				"stack": "base",
+				"corner": "SW"
+			}
+		},
+		{
+			"command": "place_village",
+			"args":{
+				"village": "cawburn"
+			}
+		},
+		{
+			"command": "place_corner",
+			"args":{
+				"n": 2,
+				"stack": "base",
+				"corner": "NE"
+			}
+		},
+		{
+			"command": "place_village",
+			"args":{
+				"village": "oralitz"
+			}
+		},
+		{
+			"command": "place_all",
+			"args":{
+				"stack": "eau"
+			}
+		},
+		{
+			"command": "place_all",
+			"args":{
+				"stack": "base"
+			}
+		}
+	]
+}
